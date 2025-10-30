@@ -1,17 +1,18 @@
-<<<<<<< HEAD
-# React + Vite
+# 📝 To-Do Website
+A simple and interactive **To-Do web application** built using **ReactJS** and **Vite**. This project helps users manage their daily tasks efficiently with an easy-to-use interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+* ✅ Add new tasks
+* 🗑️ Delete tasks
+* ✏️ Edit existing tasks
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+* **Frontend:** ReactJS
+* **Build Tool:** Vite
+* **Styling:** CSS 
+* **Language:** JavaScript (ES6+)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ToDoApp
-A simple and interactive ToDoApp built with ReactJS for managing daily tasks efficiently.It allows users to add,edit,delete tasks easily with a clean UI.
->>>>>>> 527e37d93db3ca323cc0d6fe44f3fc990efba3d3
+You can check the live version of the project here:
+👉 [https://Ankusha2.github.io/ToDoApp](https://Ankusha2.github.io/ToDoApp)
